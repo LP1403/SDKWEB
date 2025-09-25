@@ -11,6 +11,5 @@ NOTAS.md
 tools/debug
 package-lock.json
 tools/report
-dist/
 bundle-analysis**
 *.tgz
