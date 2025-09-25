@@ -1,0 +1,16 @@
+.idea
+onboarding_service
+venv
+speech
+service/__pycache__/
+configuration.env
+service/configuration.py
+node_modules
+coverage
+NOTAS.md
+tools/debug
+package-lock.json
+tools/report
+dist/
+bundle-analysis**
+*.tgz
